@@ -7,3 +7,7 @@ $( "img" ).click(function(e) {
 $(".btnclose").click(function(){
     $('.tr-viewimg').hide();
 })
+
+$(".tr-viewimg").click(function(e) {
+     e.preventDefault();
+})
