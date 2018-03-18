@@ -1,7 +1,8 @@
 .tr-avatar{
     position: absolute;
-    bottom: -64px;
-    left: 45%;
+    bottom: -65px;
+    left: 50%;
+    margin-left: -65px;
 }
 
 .tr-avatar img {
