@@ -1,0 +1,11 @@
+.tr-avatar{
+    position: absolute;
+    bottom: -64px;
+    left: 45%;
+}
+
+.tr-avatar img {
+    width: 130px;
+    height: 130px;
+    border-radius: 130px;
+}

@@ -492,7 +492,7 @@
     .pix-sport-2 { background-image: linear-gradient(rgba(0,0,0, 0.6), rgba(0,0,0, 0.6)),url('../images/sport/form-section-bg.jpg');background-size: cover;background-attachment: fixed;background-position: center; }
 
     /* car_rental */
-    .pix-car_rental-1 { background-image: url('../images/car_rental/car-rental-intro-bg.png');background-size: cover;background-attachment: fixed;background-position: center;background-color: #363F48; }
+    .pix-car_rental-1 { background-image: url('../images/car_rental/car-rental-intro-bg.png');background-size: cover;background-attachment: fixed;background-position: center;background-color: #363F48; position: relative;}
     .pix-t-gray-bg { background: rgba(0,0,0,0.08);}
     .pix-car-highlight-1 { background-image: url('../images/car_rental/bg-highlight-left.jpg');background-size: cover;background-attachment: fixed; }
 
