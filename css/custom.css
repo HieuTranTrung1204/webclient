@@ -64,3 +64,73 @@
 .btnclose {
     cursor: pointer;
 }
+
+.ztr-video-intro {
+    padding-top: 30px;
+}
+
+.ztr-description {
+    background-color: #f2f2f2;
+    margin-top: 30px;
+    padding: 0
+}
+
+.ztr-description h2 {
+    color: #777;
+    font-size: 1.4em;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0;
+    border-bottom: #fff solid 1px;
+    border-left: #363F48 solid 6px;
+}
+
+.ztr-description h2:hover {
+    border-left: #fdbd10 solid 6px;
+}
+
+.ztr-description ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.ztr-description .ztr-ioc {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-color: #ccc;
+    border-radius: 30px;
+}
+
+.ztr-description ul li {
+    padding: 10px 10px;
+}
+.ztr-description ul li:hover{
+    border-bottom: #fff solid 1px;
+}
+
+.ztr-description ul li:hover span {
+    background-color: #fdbd10;
+}
+.ztr-description ul li div {
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.ztr-description ul  li div h4 {
+    padding: 0;
+    margin: 0;
+    font-size: 0.9em;
+    color: #333;
+    font-weight: bold;
+    line-height: 20px;
+}
+
+.ztr-description ul li div p {
+    color: #999;
+}
+.ztr-c {
+    padding: 0 30px;
+}
