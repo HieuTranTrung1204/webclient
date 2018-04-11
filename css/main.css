@@ -565,6 +565,16 @@
             background-size: cover;
             background-position: center;
         }
+        .pix-car_rental-1 {
+            padding: 20px 10px;
+        }
+        h2 {
+            font-size: 24px;
+        }
+        .pix-padding-v-50 {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
     }
 
     /* Header */
